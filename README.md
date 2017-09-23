@@ -17,6 +17,9 @@ My Sensors Library - Altium Designer 15
     * MPU6050  
     * NEO-M8N  `# from offical repository #`  
 
+  * TestBoard
+    * Working on it. Please wait! thanks~ 
+    
 You can get other modules of u-blox from this link : [u-blox's library](https://github.com/u-blox/Altium-Designer-Library)  
 
 # update  
