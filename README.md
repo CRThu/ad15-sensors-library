@@ -13,13 +13,21 @@ My Sensors Library - Altium Designer 15
     * BMI160  
     * BMP280  
     * ICM-20600  
-    * NEO-M8N  `# from offical repository #`  
+    * MPU6000  
+    * MPU6050  
+    * NEO-M8N  `# from offical repository #`  
 
 You can get other modules of u-blox from this link : [u-blox's library](https://github.com/u-blox/Altium-Designer-Library)  
 
+# update  
+This project will be updated aperiodically in the future.  
+If you want to use other ic/module packages,you can create an issue to tell me.  
+
 # copyright
 
-Copyright YummyCarrot(huyuzhe)
+Copyright YummyCarrot(huyuzhe)  
+
+My Github Location : [YummyCarrot's Github](https://github.com/CRThu)
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
