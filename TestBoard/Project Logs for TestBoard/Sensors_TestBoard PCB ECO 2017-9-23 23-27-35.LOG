@@ -1,0 +1,63 @@
+Added Component: Designator=C16(C1206)
+Added Component: Designator=C17(C1206)
+Added Component: Designator=C18(C1206)
+Added Component: Designator=D8(3.2X1.6X1.1)
+Added Component: Designator=P8(HDR1X9)
+Added Component: Designator=R18(R1206)
+Added Component: Designator=U9(AMS1117)
+Added Component: Designator=U10(ICM20600-LGA14)
+Added Pin To Net: NetName=BMI160-2-GND Pin=C16-2
+Added Pin To Net: NetName=BMI160-2-GND Pin=C17-2
+Added Pin To Net: NetName=BMI160-2-GND Pin=C18-2
+Added Pin To Net: NetName=BMI160-2-GND Pin=D8-2
+Added Pin To Net: NetName=BMI160-2-GND Pin=P8-9
+Added Pin To Net: NetName=BMI160-2-GND Pin=U9-1
+Added Pin To Net: NetName=MODS-VCC Pin=U9-3
+Added Pin To Net: NetName=BMI160-2-GND Pin=U10-6
+Added Pin To Net: NetName=BMI160-2-GND Pin=U10-7
+Added Pin To Net: NetName=ICM20600-2-FSYNC Pin=P8-8
+Added Pin To Net: NetName=ICM20600-2-FSYNC Pin=U10-10
+Added Net: Name=ICM20600-2-FSYNC
+Added Pin To Net: NetName=ICM20600-2-INT1 Pin=P8-6
+Added Pin To Net: NetName=ICM20600-2-INT1 Pin=U10-4
+Added Net: Name=ICM20600-2-INT1
+Added Pin To Net: NetName=ICM20600-2-INT2 Pin=P8-7
+Added Pin To Net: NetName=ICM20600-2-INT2 Pin=U10-9
+Added Net: Name=ICM20600-2-INT2
+Added Pin To Net: NetName=ICM20600-2-NCS Pin=P8-5
+Added Pin To Net: NetName=ICM20600-2-NCS Pin=U10-12
+Added Net: Name=ICM20600-2-NCS
+Added Pin To Net: NetName=ICM20600-2-SCLK Pin=P8-4
+Added Pin To Net: NetName=ICM20600-2-SCLK Pin=U10-13
+Added Net: Name=ICM20600-2-SCLK
+Added Pin To Net: NetName=ICM20600-2-SDI Pin=P8-3
+Added Pin To Net: NetName=ICM20600-2-SDI Pin=U10-14
+Added Net: Name=ICM20600-2-SDI
+Added Pin To Net: NetName=ICM20600-2-SDO Pin=P8-2
+Added Pin To Net: NetName=ICM20600-2-SDO Pin=U10-1
+Added Net: Name=ICM20600-2-SDO
+Added Pin To Net: NetName=ICM20600-2-VCC Pin=C16-1
+Added Pin To Net: NetName=ICM20600-2-VCC Pin=C17-1
+Added Pin To Net: NetName=ICM20600-2-VCC Pin=P8-1
+Added Pin To Net: NetName=ICM20600-2-VCC Pin=R18-1
+Added Pin To Net: NetName=ICM20600-2-VCC Pin=U9-2
+Added Pin To Net: NetName=ICM20600-2-VCC Pin=U9-4
+Added Pin To Net: NetName=ICM20600-2-VCC Pin=U10-5
+Added Pin To Net: NetName=ICM20600-2-VCC Pin=U10-8
+Added Net: Name=ICM20600-2-VCC
+Added Pin To Net: NetName=NetC18_1 Pin=C18-1
+Added Pin To Net: NetName=NetC18_1 Pin=U10-11
+Added Net: Name=NetC18_1
+Added Pin To Net: NetName=NetD8_1 Pin=D8-1
+Added Pin To Net: NetName=NetD8_1 Pin=R18-2
+Added Net: Name=NetD8_1
+Added Member To Class: ClassName=Sensors_TestBoard Member=Component C16 Cap
+Added Member To Class: ClassName=Sensors_TestBoard Member=Component C17 Cap
+Added Member To Class: ClassName=Sensors_TestBoard Member=Component C18 Cap
+Added Member To Class: ClassName=Sensors_TestBoard Member=Component D8 LED
+Added Member To Class: ClassName=Sensors_TestBoard Member=Component P8 Header 9
+Added Member To Class: ClassName=Sensors_TestBoard Member=Component R2 Res
+Added Member To Class: ClassName=Sensors_TestBoard Member=Component R18 Res
+Added Member To Class: ClassName=Sensors_TestBoard Member=Component U9 AMS1117-3.3
+Added Member To Class: ClassName=Sensors_TestBoard Member=Component U10 ICM20600-SPI
+Added Room: Name=Sensors_TestBoard

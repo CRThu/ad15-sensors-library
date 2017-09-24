@@ -1,0 +1,11 @@
+Added Component: Designator=P7(HDR1X8)
+Added Pin To Net: NetName=ICM20600-VCC Pin=P7-1
+Added Pin To Net: NetName=ICM20600-AD0 Pin=P7-2
+Added Pin To Net: NetName=ICM20600-SDA Pin=P7-3
+Added Pin To Net: NetName=ICM20600-SCL Pin=P7-4
+Added Pin To Net: NetName=ICM20600-INT1 Pin=P7-5
+Added Pin To Net: NetName=ICM20600-INT2 Pin=P7-6
+Added Pin To Net: NetName=ICM20600-FSYNC Pin=P7-7
+Added Pin To Net: NetName=BMI160-2-GND Pin=P7-8
+Added Member To Class: ClassName=Sensors_TestBoard Member=Component P7 Header 8
+Added Room: Name=Sensors_TestBoard
