@@ -68,7 +68,11 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=LKMMWMBO
+DocumentUniqueId=AJYWQEAE
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for TestBoard\Design Rule Check - Sensors_TestBoard.html
+DItemRevisionGUID=
 
 [Configuration1]
 Name=Default Configuration
@@ -360,6 +364,8 @@ OutputName2=Simple BOM
 OutputDocumentPath2=
 OutputVariantName2=[No Variations]
 OutputDefault2=0
+Configuration2_Name1=OutputConfigurationParameter1
+Configuration2_Item1=Record=SimpleBOMView|SimpleBOMMode=0
 OutputType3=SinglePinNetReporter
 OutputName3=Report Single Pin Nets
 OutputDocumentPath3=
