@@ -18,7 +18,7 @@ My Sensors Library - Altium Designer 15
     * NEO-M8N  `# from offical repository #`  
 
   * TestBoard
-    * Working on it. Please wait! thanks~ 
+    * 201709STBV100P01 finished  `# there is a bug : antenna should be no ground under #`  
     
 You can get other modules of u-blox from this link : [u-blox's library](https://github.com/u-blox/Altium-Designer-Library)  
 
