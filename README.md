@@ -1,5 +1,9 @@
 # ad15-sensors-library
 My Sensors Library - Altium Designer 15  
+# WARNING 
+*** **301 FOUND** ***
+
+**THIS REPO IS MOVED TO [AD-CARROT-LIBRARY](https://github.com/CRThu/ad-carrot-library) PERMANENTLY!**
 
 # include
 * ad15-sensors-library  
@@ -21,10 +25,6 @@ My Sensors Library - Altium Designer 15
     * 201709STBV100P01 finished  `# there is a bug : antenna should be no ground under #`  
     
 You can get other modules of u-blox from this link : [u-blox's library](https://github.com/u-blox/Altium-Designer-Library)  
-
-# update  
-This project will be updated aperiodically in the future.  
-If you want to use other ic/module packages,you can create an issue to tell me.  
 
 # copyright
 
